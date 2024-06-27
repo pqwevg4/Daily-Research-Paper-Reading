@@ -8,7 +8,7 @@ This repository documents my journey of reading one research paper with code eve
 
 | Date       | Title                                      | Link                                                     |
 |------------|--------------------------------------------|----------------------------------------------------------|
-| 2024-06-27 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting                       | [Link to the Paper](URL)                                 |
+| 2024-06-27 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting                       | [Link to the Paper](https://arxiv.org/pdf/1912.09363v3)                                 |
 | 2024-06-28 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
 | 2024-06-29 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
 
