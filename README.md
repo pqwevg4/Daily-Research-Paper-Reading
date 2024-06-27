@@ -1,2 +1,30 @@
-# Daily-Research-Paper-Reading
+# Daily Research Paper Reading Challenge
+
 This repository documents my journey of reading one research paper with code every day. Below is a log of the papers I've read, including the date, title, and a link to the paper.
+
+## Log
+
+### June 2024
+
+| Date       | Title                                      | Link                                                     |
+|------------|--------------------------------------------|----------------------------------------------------------|
+| 2024-06-27 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
+| 2024-06-28 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
+| 2024-06-29 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
+
+### July 2024
+
+| Date       | Title                                      | Link                                                     |
+|------------|--------------------------------------------|----------------------------------------------------------|
+| 2024-07-01 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
+| 2024-07-02 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
+| 2024-07-03 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
+
+## How to Use
+
+To update this log, simply add a new row to the appropriate month's table with the date, the title of the paper, and a link to the paper.
+
+### Example Entry
+
+```markdown
+| 2024-06-30 | Understanding Machine Learning Algorithms | [Link to the Paper](https://arxiv.org/abs/example)       |
