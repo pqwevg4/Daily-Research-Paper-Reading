@@ -4,12 +4,12 @@ This repository documents my journey of reading one research paper with code eve
 
 ## Log
 
-### June 2024
+### July 2024
 
 | Date       | Title                                      | Link                                                     |
 |------------|--------------------------------------------|----------------------------------------------------------|
-| 2024-06-27 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting                       | [Link to the Paper](https://arxiv.org/pdf/1912.09363v3)                                 |
-| 2024-06-28 | An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling                       | [Link to the Paper](https://arxiv.org/pdf/1803.01271v2)                                 |
+| 2024-06-30 | Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting                       | [Link to the Paper](https://arxiv.org/pdf/1912.09363v3)                                 |
+| 2024-07-01 | An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling                       | [Link to the Paper](https://arxiv.org/pdf/1803.01271v2)                                 |
 | 2024-06-29 | [Title of the Paper]                       | [Link to the Paper](URL)                                 |
 
 ### July 2024
