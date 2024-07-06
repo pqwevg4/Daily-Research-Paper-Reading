@@ -14,4 +14,6 @@ This repository documents my journey of reading one research paper with code eve
 | 2024-07-03 | DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks                       | [Link to the Paper](https://arxiv.org/pdf/1704.04110v3)                                 |
 | 2024-07-04 | N-BEATS: Neural basis expansion analysis for interpretable time series forecasting                       | [Link to the Paper](https://arxiv.org/pdf/1905.10437v4)                                 |
 | 2024-07-05 | Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting                       | [Link to the Paper](https://arxiv.org/pdf/1707.01926v3)                                 |
+| 2024-07-06 | Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting                       | [Link to the Paper](https://arxiv.org/pdf/1707.01926v3)                                 |
+
 
